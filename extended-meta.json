@@ -6,6 +6,9 @@
             "me": "Johann",
             "server": "Intel Nuc hosted at my home, evironment friendly and build for future"
         }
+        "social": {
+            "twitter_handle": "Johann ADAholycs"
+        }
     },
     "my-pool-ids": {
         "0": "6d3f657a5fb765a69bd36e4d216da05ae979cc26a2955eb8478932f6"
